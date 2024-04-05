@@ -4,7 +4,5 @@ Personal repo for my profiles on problem solving platforms, from time to time, I
 ## My Profiles
 - ### **Codeforces** (Mostly C++) 
   - https://codeforces.com/submissions/VadonHipra
-- ### **Codewars** (Mostly Javascript) ![Rank](https://www.codewars.com/users/nour-nagm/badges/micro)
-  - https://www.codewars.com/users/nour-nagm/completed 
 - ### **LeetCode** (Mostly Javascript)
   - https://leetcode.com/nour-nagm/ 
